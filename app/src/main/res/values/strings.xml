@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">第11回提出課題</string>
+    <string-array name="lv_menu">
+        <item>日本</item>
+        <item>韓国</item>
+        <item>北朝鮮</item>
+        <item>中国</item>
+        <item>モンゴル</item>
+        <item>ロシア</item>
+        <item>イギリス</item>
+        <item>ドイツ</item>
+        <item>フランス</item>
+        <item>ナウル</item>
+        <item>南アフリカ</item>
+        <item>ブラジル</item>
+        <item>チリ</item>
+        <item>カナダ</item>
+        <item>アメリカ</item>
+    </string-array>
+</resources>
